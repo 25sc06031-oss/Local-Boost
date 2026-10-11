@@ -1,0 +1,6 @@
+{
+  "name": "LocalBoost",
+  "description": "Vernacular AI Marketing Studio for Bharat MSMEs, Kirana stores, boutiques, and Indian retail businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
